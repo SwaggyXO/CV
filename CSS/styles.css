@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(17, 17, 17);
+    margin: 0;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(139, 139, 139);
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
+
+.pfp{
+    height: 300px;
+    border-radius: 100%;
+}
+
+.tcolor{
+    color: #a2dcf0;
+}
+
+.LIColor{
+    color: #a2dcf0;
+}
+
+.main{
+    background-color: rgb(17, 17, 17);
+}
+
+.intro{
+    background-color: rgb(17, 17, 17);
+}
+
+.info
+{
+    background-color: #242424;
+}
+
+.form{
+    color: white;
+}
+
+.olitems{
+    color: white;
+}
+
+h1{
+    color: #cae3eb;
+}
+
+h3{
+    color: #cae3eb;
+}
